@@ -1,0 +1,11 @@
+{
+    "require": {
+        "bref/bref": "^1.7",
+        "bref/symfony-bridge": "^0.2.1"
+    },
+    "config": {
+        "allow-plugins": {
+            "symfony/runtime": true
+        }
+    }
+}
